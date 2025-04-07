@@ -1,7 +1,7 @@
 - 👋 Hi, I’m an IT student
 - 👁ᴗ👁 I’m mostly interested in server side projects and applications 
 
-🌐 [My portfolio](https://portfolio-thisissupposedtobeaprofessionalaccount.vercel.app/) 🌐
+🌐 [My portfolio](https://thisissupposedtobeadomainname.duckdns.org/) 🌐
 
 <!---
 thisissupposedtobeaprofessionalaccount/thisissupposedtobeaprofessionalaccount is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
